@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Values version="2.0">
-  <value name="enabled">yes</value>
+  <value name="enabled">no</value>
   <value name="system_package">no</value>
   <value name="version">1.0</value>
   <value name="name">CustomerRepoGitHubProject</value>
@@ -14,13 +14,13 @@
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">3</value>
+  <value name="build">4</value>
   <null name="description"/>
   <value name="created_date">09-12-2025 13:07:33 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2025-12-09T13:08:53.585214181Z</value>
+  <value name="lastUpdated">2025-12-09T19:25:20.973203112Z</value>
   <value name="wmProjectId">fl4415dfdf6aa707ac2112aa</value>
   <value name="creator">Bharath Meka</value>
 </Values>
